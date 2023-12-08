@@ -1,4 +1,4 @@
-### Sam1000won! 👋
+# Sam1000won! 👋
 ⚓️ 해군 엔지니어링과 수리 데이터 정리 및 정비 내용 서류화를 맞아서 했습니다. 
 
 🐬 현재는 데이터 분석가/데이터 엔지니어를 지망하는 초보 개발자입니다. 
@@ -11,21 +11,21 @@
 
 🗣️ 제가 개발한 것을 남들에게 잘 설명할 수 있는 능력을 키우기 위해 노력합니다
 
-# Education
+## Education
 * 군장대학교 전문대 졸업(16.3 ~ 18.2)
 * 해군 부사관 복무 중사 제대(18.5 ~ 23.5)
 * 엔코아(플레이데이터) 데이터 엔지니어 양성 코스 26기(2023.06.01~2023.12.05)
 
-# 🐳Projects
+## 🐳Projects
 * Streamlit - 서울시 따릉이 데이터 분석
 * Spring boot - 냉장고 분석 (크롤링 및 데이터 전처리)(https://github.com/qkrtnqls1216/Carrier)
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측
 * Final Project(MyTravel) - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
 
-# 🧑‍💻Code Test
+## 🧑‍💻Code Test
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswldnd)](https://solved.ac/gkswldnd/)
 
-## 🦾Technologies Used
+### 🦾Technologies Used
 
 <div align=center>
   <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
