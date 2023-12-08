@@ -4,8 +4,8 @@
 🐬 현재는 데이터 분석가/데이터 엔지니어를 지망하는 초보 개발자입니다.  
 
 # Education
-* 군장대학교 전문대 졸업(16~3~18.2)
-* 해군 부사관 복무 중사 제대(18.5~ 23.5)
+* 군장대학교 전문대 졸업(16.3 ~ 18.2)
+* 해군 부사관 복무 중사 제대(18.5 ~ 23.5)
 * 엔코아(플레이데이터) 데이터 엔지니어 양성 코스 26기(2023.06.01~2023.12.05)
 
 # 🐳Projects
@@ -13,7 +13,6 @@
 * Spring boot - 냉장고 분석 (크롤링 및 데이터 전처리)(https://github.com/qkrtnqls1216/Carrier)
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측
 * Final Project(MyTravel) - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
-
 
 ## 🦾Technologies Used
 
