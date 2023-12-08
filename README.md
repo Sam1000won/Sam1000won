@@ -1,4 +1,4 @@
-### Hi there 👋
+# Sam 1000 Won 👋
 
 <!--
 **Sam1000won/Sam1000won** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
