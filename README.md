@@ -14,6 +14,9 @@
 * Hadoop & Hive - 2020년 한국거래소 주식 시장 분석 및 예측
 * Final Project(MyTravel) - 국내 여행 코스 추천 서비스 (https://github.com/DJMLteam2/DP_Service)
 
+# 🧑‍💻Code Test
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkswldnd)](https://solved.ac/gkswldnd/)
+
 ## 🦾Technologies Used
 
 <div align=center>
